@@ -37,3 +37,5 @@ Tradução para Português Brasileiro do jogo Limbus Company
 
    - Execute o jogo e verifique se a tradução está funcionando.
 
+# Créditos
+Agradecimentos especiais a <b>Knightey<b> por toda sua ajuda com a Programação e com os sprites dentro do jogo!
