@@ -1,7 +1,8 @@
-
-
+<div align="center">
+   
 # LimbusCompanyBrazilianTranslationTeam
-Tradução para Português Brasileiro do jogo Limbus Company
+Tradução em Português Brasileiro para o jogo Limbus Company
+</div>
 
 # Instalação
 
