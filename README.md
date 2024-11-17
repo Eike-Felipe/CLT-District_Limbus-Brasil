@@ -37,8 +37,3 @@ Tradução para Português Brasileiro do jogo Limbus Company
 
    - Execute o jogo e verifique se a tradução está funcionando.
 
-Disclaimer
-
-    Using this mod is free.
-    This mod is allowed by Project Moon. This mod is whitelisted by Project Moon Offical。You can read this post to learn more.
-    We use MIT License. Please go to LICENSE
