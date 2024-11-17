@@ -2,6 +2,8 @@
    
 # LimbusCompanyBrazilianTranslationTeam
 Tradução em Português Brasileiro para o jogo Limbus Company
+
+[![Discord](https://img.shields.io/badge/Discord%20Brasileiro%20da%20PM-641E16?style=plastic&logo=discord&logoColor=473DBF&link=https%3A%2F%2Fdiscord.gg%2FWfbHG4aZ6f)](https://discord.gg/fHYZfmw4et)
 </div>
 
 # Instalação
