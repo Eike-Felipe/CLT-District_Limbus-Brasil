@@ -3,7 +3,7 @@
 # LimbusCompanyBrazilianTranslationTeam
 Tradução em Português Brasileiro para o jogo Limbus Company
 
-[![Discord](https://img.shields.io/badge/Discord%20Brasileiro%20da%20PM-641E16?style=plastic&logo=discord&logoColor=473DBF&link=https%3A%2F%2Fdiscord.gg%2FWfbHG4aZ6f)](https://discord.gg/fHYZfmw4et)
+[![Discord](https://img.shields.io/badge/Discord%20Brasileiro%20da%20PM-641E16?style=plastic&logo=discord&logoColor=473DBF&link=https%3A%2F%2Fdiscord.gg%2FWfbHG4aZ6f)]
 </div>
 
 # Instalação
@@ -37,5 +37,6 @@ Tradução em Português Brasileiro para o jogo Limbus Company
    - Execute o jogo e verifique se a tradução está funcionando.
 
 # Créditos
-Agradecimentos especiais a <b>Knightey<b> por toda sua ajuda com a maior parte da programação e com os sprites dentro do jogo!
+Agradecimentos especiais a <b>Knightey<b> pela ajuda com a maior parte da programação e com os sprites!
+
 Agradecimentos especiais a <b>TheSmileyDroid<b> pela ajuda com os scripts e com a programação adicional!
