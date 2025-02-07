@@ -25,6 +25,7 @@ Tradução em Português Brasileiro para o jogo Limbus Company
 ### 3.- Preparar a pasta para o plugin
 
    - Criar uma pasta na pasta de plugins chamada ``LimbusCompanyBrazilianTranslationTeam``. A pasta de plugins deve estar em ``\Steam\steamapps\common\Limbus Company\BepInEx\plugins``.
+   
    - Criar uma pasta chamada ``LimbusCompanyBrazilianTranslationTeam-WIP`` na pasta \LimbusCompanyBrazilianTranslationTeam\ que você acabou de criar.
 
 ### 4.- Baixar a localização
