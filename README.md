@@ -24,7 +24,7 @@ Tradução em Português Brasileiro para o jogo Limbus Company
 
 ### 3.- Preparar a pasta para o plugin
 
-   - Crie uma pasta em ``...\Limbus Company\BepInEx\plugins``. Pode colocar qualquer nome na pasta que você criou.
+   - Crie uma pasta (com qualquer nome) em ``...\Limbus Company\BepInEx\plugins``.
 
 ### 4.- Baixar a localização
 
