@@ -32,7 +32,7 @@ Tradução em Português Brasileiro para o jogo Limbus Company
 
    - Baixe a [Última versão da Tradução](https://github.com/Eike-Felipe/LimbusCompanyBrazilianTranslationTeam/releases)
 
-   - Extraia o arquivo zip na pasta ``\Steam\steamapps\common\Limbus Company\BepInEx\plugins\LimbusCompanyBrazilianTranslationTeam``.
+   - Extraia o arquivo zip na pasta ``\Steam\steamapps\common\Limbus Company\BepInEx\plugins\LimbusCompanyBrazilianTranslationTeam\LimbusCompanyBrazilianTranslationTeam-WIP``.
 
 ### 5.- Execute o Jogo
 
