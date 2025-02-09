@@ -145,7 +145,7 @@ namespace LimbusCompanyPortuguêsBrasileiro
         private static void SetLoginInfo(LoginSceneManager __instance)
         {
             LoadLocal(LOCALIZE_LANGUAGE.EN);
-            __instance.tmp_loginAccount.text = "Localização Brasileira\nLimbus Company\nv" + LCB_QuarkMod.VERSION + LCB_QuarkMod.VERSION_STATE;
+            __instance.tmp_loginAccount.text = "Limbus Company pt-BR\nv" + LCB_QuarkMod.VERSION + LCB_QuarkMod.VERSION_STATE;
             __instance.tmp_loginAccount.characterSpacing = -2;
             __instance.tmp_loginAccount.lineSpacing = -20;
             __instance.tmp_loginAccount.font = GetBrazilianFonts(4);
