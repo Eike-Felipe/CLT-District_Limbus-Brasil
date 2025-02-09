@@ -47,7 +47,7 @@ namespace LimbusCompanyPortuguêsBrasileiro
                 HarmonyLib.Harmony harmony = new(NAME);
                 if (Brazilian_Settings.IsUseBrazilian.Value)
                 {
-                    Manager.InitLocalizes(new DirectoryInfo(ModPath + "/Localize/BR"));
+                    Manager.InitLocalizes(new DirectoryInfo(ModPath + "/Localize/pt-BR"));
                     harmony.PatchAll(typeof(Brazilian_Fonts));
                     harmony.PatchAll(typeof(ReadmeManager));
                     harmony.PatchAll(typeof(LoadingManager));
