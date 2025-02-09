@@ -1,0 +1,9 @@
+C:\Trabalho\Localização de Games  - Voluntário\Trad Limbus Company\Git BR\LimbusCompanyBrazilianTranslationTeam\Release\LimbusCompanyBus_pt-BR_BIE.deps.json
+C:\Trabalho\Localização de Games  - Voluntário\Trad Limbus Company\Git BR\LimbusCompanyBrazilianTranslationTeam\Release\LimbusCompanyBus_pt-BR_BIE.dll
+C:\Trabalho\Localização de Games  - Voluntário\Trad Limbus Company\Git BR\LimbusCompanyBrazilianTranslationTeam\src\obj\Debug\LimbusCompanyPortuguêsBrasileiro.csproj.AssemblyReference.cache
+C:\Trabalho\Localização de Games  - Voluntário\Trad Limbus Company\Git BR\LimbusCompanyBrazilianTranslationTeam\src\obj\Debug\LimbusCompanyPortuguêsBrasileiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabalho\Localização de Games  - Voluntário\Trad Limbus Company\Git BR\LimbusCompanyBrazilianTranslationTeam\src\obj\Debug\LimbusCompanyPortuguêsBrasileiro.csproj.CoreCompileInputs.cache
+C:\Trabalho\Localização de Games  - Voluntário\Trad Limbus Company\Git BR\LimbusCompanyBrazilianTranslationTeam\src\obj\Debug\LimbusCompanyPortuguêsBrasileiro.csproj.CopyComplete
+C:\Trabalho\Localização de Games  - Voluntário\Trad Limbus Company\Git BR\LimbusCompanyBrazilianTranslationTeam\src\obj\Debug\LimbusCompanyBus_pt-BR_BIE.dll
+C:\Trabalho\Localização de Games  - Voluntário\Trad Limbus Company\Git BR\LimbusCompanyBrazilianTranslationTeam\src\obj\Debug\refint\LimbusCompanyBus_pt-BR_BIE.dll
+C:\Trabalho\Localização de Games  - Voluntário\Trad Limbus Company\Git BR\LimbusCompanyBrazilianTranslationTeam\src\obj\Debug\ref\LimbusCompanyBus_pt-BR_BIE.dll

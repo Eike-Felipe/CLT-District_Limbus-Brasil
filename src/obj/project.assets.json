@@ -3550,32 +3550,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\timof\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Master\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\timof\\Documents\\! LOCALIZATION MODS !\\Brazil Localization\\LimbusCompanyPortuguêsBrasileiro\\LimbusCompanyPortuguêsBrasileiro.csproj",
+      "projectUniqueName": "C:\\Trabalho\\Localização de Games  - Voluntário\\Trad Limbus Company\\Git BR\\LimbusCompanyBrazilianTranslationTeam\\src\\LimbusCompanyPortuguêsBrasileiro.csproj",
       "projectName": "LimbusCompanyBus_pt-BR_BIE",
-      "projectPath": "C:\\Users\\timof\\Documents\\! LOCALIZATION MODS !\\Brazil Localization\\LimbusCompanyPortuguêsBrasileiro\\LimbusCompanyPortuguêsBrasileiro.csproj",
-      "packagesPath": "C:\\Users\\timof\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\timof\\Documents\\! LOCALIZATION MODS !\\Brazil Localization\\LimbusCompanyPortuguêsBrasileiro\\obj\\",
+      "projectPath": "C:\\Trabalho\\Localização de Games  - Voluntário\\Trad Limbus Company\\Git BR\\LimbusCompanyBrazilianTranslationTeam\\src\\LimbusCompanyPortuguêsBrasileiro.csproj",
+      "packagesPath": "C:\\Users\\Master\\.nuget\\packages\\",
+      "outputPath": "C:\\Trabalho\\Localização de Games  - Voluntário\\Trad Limbus Company\\Git BR\\LimbusCompanyBrazilianTranslationTeam\\src\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\timof\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Master\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3623,7 +3615,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.428\\RuntimeIdentifierGraph.json"
       }
     }
   }
