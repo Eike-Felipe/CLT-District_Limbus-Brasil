@@ -1,9 +1,0 @@
-C:\Users\timof\Documents\! LOCALIZATION MODS !\Brazil Localization\LimbusCompanyPortuguêsBrasileiro\obj\x64\BepInEx\LimbusCompanyPortuguêsBrasileiro.csproj.AssemblyReference.cache
-C:\Users\timof\Documents\! LOCALIZATION MODS !\Brazil Localization\LimbusCompanyPortuguêsBrasileiro\obj\x64\BepInEx\LimbusCompanyPortuguêsBrasileiro.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\timof\Documents\! LOCALIZATION MODS !\Brazil Localization\LimbusCompanyPortuguêsBrasileiro\obj\x64\BepInEx\LimbusCompanyPortuguêsBrasileiro.csproj.CoreCompileInputs.cache
-C:\Users\timof\Documents\! LOCALIZATION MODS !\Brazil Localization\LimbusCompanyPortuguêsBrasileiro\obj\x64\BepInEx\LimbusCompanyPortuguêsBrasileiro.csproj.CopyComplete
-C:\Users\timof\Documents\! LOCALIZATION MODS !\Brazil Localization\Release\LimbusCompanyBus_pt-BR_BIE.deps.json
-C:\Users\timof\Documents\! LOCALIZATION MODS !\Brazil Localization\Release\LimbusCompanyBus_pt-BR_BIE.dll
-C:\Users\timof\Documents\! LOCALIZATION MODS !\Brazil Localization\LimbusCompanyPortuguêsBrasileiro\obj\x64\BepInEx\LimbusCompanyBus_pt-BR_BIE.dll
-C:\Users\timof\Documents\! LOCALIZATION MODS !\Brazil Localization\LimbusCompanyPortuguêsBrasileiro\obj\x64\BepInEx\refint\LimbusCompanyBus_pt-BR_BIE.dll
-C:\Users\timof\Documents\! LOCALIZATION MODS !\Brazil Localization\LimbusCompanyPortuguêsBrasileiro\obj\x64\BepInEx\ref\LimbusCompanyBus_pt-BR_BIE.dll
