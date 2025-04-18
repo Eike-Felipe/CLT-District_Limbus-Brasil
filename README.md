@@ -4,7 +4,7 @@
 </a>
    
 # CLT District™
-Tradução em Português Brasileiro para o jogo Limbus Company
+Tradução em Português Brasileiro para o Limbus Company
 
 [![Discord](https://img.shields.io/badge/Servidor%20do%20Mille-641E16?style=plastic&logo=discord&logoColor=473DBF&link=https://discord.gg/PPpFyyzZgY)](https://discord.gg/PPpFyyzZgY)
 </div>
