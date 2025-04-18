@@ -1,6 +1,6 @@
 <div align="center">
    
-# LimbusCompanyBrazilianTranslationTeam
+# CLT District™
 Tradução em Português Brasileiro para o jogo Limbus Company
 
 [![Discord](https://img.shields.io/badge/Servidor%20do%20Mille-641E16?style=plastic&logo=discord&logoColor=473DBF&link=https://discord.gg/PPpFyyzZgY)](https://discord.gg/PPpFyyzZgY)
@@ -8,35 +8,23 @@ Tradução em Português Brasileiro para o jogo Limbus Company
 
 # Instalação
 
-### 0.- Baixar e instalar o [.NET 6.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.413-windows-x64-installer)
+### 1.- Extrair o conteúdo do arquivo zip na pasta do jogo
 
-### 1.- Instalar o Framework de modding BepInEx
+   Em sua Biblioteca Steam, clique com o botão direito em Limbus Company e clique em "Gerenciar" - "Explorar arquivos locais", e então extraia o arquivo zip na pasta (``\LimbusCompany_Data``).
 
-   - Baixe o [BepInEx](https://builds.bepinex.dev/projects/bepinex_be/674/BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.674%2B82077ec.zip);
+### 2.- Execute o Jogo e selecione a linguagem adicionada
 
-   Em sua Biblioteca Steam, clique com o botão direito em Limbus Company e clique em "Gerenciar" - "Explorar arquivos locais", e então extraia esse arquivo zip na pasta que acabou de ser aberta (``\Steam\steamapps\common\Limbus Company``). Não crie uma nova pasta.
+   - Na tela inicial clique em "Select Custom Language", escolha "pt-BR" e clique em "Confirm".
 
-### 2.- Execute o Jogo
+   - Reinicie o jogo.
 
-   - Execute o jogo pelo menos uma vez para que o BepInEx possa criar a pasta de plugins.
+### 3.- Divirta-se
 
-   - Feche o jogo.
-
-### 3.- Preparar a pasta para o plugin
-
-   - Crie uma pasta (com qualquer nome) em ``...\Limbus Company\BepInEx\plugins``.
-
-### 4.- Baixar a localização
-
-   - Baixe a [Última versão da Tradução](https://github.com/Eike-Felipe/LimbusCompanyBrazilianTranslationTeam/releases)
-
-   - Extraia o arquivo zip na pasta criada no Passo 3.
-
-### 5.- Execute o Jogo
-
-   - Execute o jogo e verifique se a tradução está funcionando.
+   - Prontinho, agora é só jogar.
 
 # Créditos
-Agradecimentos especiais a <b>Knightey<b> pela ajuda com a maior parte da programação e com os sprites!
+Agradecimentos especiais a <b>Knightey<b> por sua ajuda com a maior parte da programação!
 
-Agradecimentos especiais a <b>TheSmileyDroid<b> pela ajuda com os scripts e com a programação adicional!
+Agradecimentos especiais a <b>TheSmileyDroid<b> por sua ajuda com a programação adicional!
+
+Agradecimentos especiais a <b>Fujiwara<b> por sua ajuda com os scripts!
