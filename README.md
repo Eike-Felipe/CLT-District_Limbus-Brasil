@@ -10,21 +10,14 @@ Tradução em Português Brasileiro para o Limbus Company
 </div>
 
 
-# Instalação da Tradução
+# EM BREVE: Localização Brasileira para o Limbus Company
 
-### 1.- Extrair o conteúdo do arquivo zip na pasta do jogo
+Estamos fazendo de tudo para trazer essa localização em PT-BR para vocês.
 
-   Em sua Biblioteca Steam, clique com o botão direito em Limbus Company e clique em "Gerenciar" - "Explorar arquivos locais", e então extraia o arquivo zip na pasta (``\LimbusCompany_Data``).
+Para garantir a qualidade do "mod", estamos focando nas revisões antes de disponibilizá-lo. 
 
-### 2.- Execute o Jogo e selecione a linguagem adicionada
+Nos acompanhe no discord para ficar por dentro de tudo e não perder o lançamento da nossa tradução!
 
-   - Na tela inicial clique em "Select Custom Language", escolha "pt-BR" e clique em "Confirm".
-
-   - Reinicie o jogo.
-
-### 3.- Divirta-se
-
-   - Prontinho, agora é só jogar.
 
 
 # Créditos
