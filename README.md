@@ -28,8 +28,6 @@ Tradução em Português Brasileiro para o Limbus Company
 
 
 # Créditos
-Agradecimentos especiais a <b>Knightey<b> por sua ajuda com a maior parte da programação!
-
-Agradecimentos especiais a <b>TheSmileyDroid<b> por sua ajuda com a programação adicional!
+Agradecimentos especiais a <b>Knightey<b> por sua ajuda com a programação!
 
 Agradecimentos especiais a <b>Fujiwara<b> por sua ajuda com os scripts!
