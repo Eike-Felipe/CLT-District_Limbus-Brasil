@@ -10,7 +10,7 @@ Tradução em Português Brasileiro para o Limbus Company
 </div>
 
 
-# EM BREVE: Localização Brasileira para o Limbus Company
+# Localização Brasileira para o Limbus Company
 
 Estamos fazendo de tudo para trazer essa localização em PT-BR para vocês.
 
