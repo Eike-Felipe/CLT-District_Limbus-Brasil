@@ -53,7 +53,7 @@ Com um enorme progresso conquistado, é com muita alegria que anunciamos: **o no
 
 Depois de muito trabalho e dedicação da equipe, vocês já podem baixar e jogar o game totalmente em português, fruto do esforço coletivo da CLT District. Estamos disponibilizando nossa tradução no Limbus Localization Manager e no GitHub, para todos que quiserem experimentar e acompanhar o avanço do projeto.
 
-Es natural que ainda existam ajustes a serem feitos — por isso, sintam-se à vontade para nos enviar qualquer erro, sugestão ou observação por meio do nosso servidor no Discord [CLT District](https://discord.gg/5BF7pnj8pE). A participação da comunidade é essencial para tornar essa tradução cada vez melhor.
+Es natural que ainda existam ajustes a serem feitos. Por isso, sintam-se à vontade para nos enviar qualquer erro, sugestão ou observação por meio do nosso servidor no Discord [CLT District](https://discord.gg/5BF7pnj8pE). A participação da comunidade é essencial para tornar essa tradução cada vez melhor.
 
 Aproveitem o mod, compartilhem com seus amigos e embarquem nesse bonde em nossa própria língua.
 O pecado agora fala português.
