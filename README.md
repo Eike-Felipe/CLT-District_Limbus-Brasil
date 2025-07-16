@@ -45,11 +45,11 @@ Então, nada mais justo que restaurarmos os significados originais e o peso emoc
 
 E como está nosso projeto?
 
-- Interface e menus traduzidos e revisados
-- Efeitos e mecânicas de combate principais traduzidos
-- História até o Canto III traduzida e revisada (Prólogo até o intervalo Pesadelo na galinha)
-- Todas as Identidades e E.G.Os do jogo traduzidos (1ª temporada completamente revisadas)
-- Textos-guia, notas do Dante e extras traduzidos
+✔ Interface e menus traduzidos e revisados  
+✔ Efeitos e mecânicas de combate principais traduzidos  
+✔ História até o Canto III traduzida e revisada (Prólogo até o intervalo Pesadelo na galinha)  
+✔ Todas as Identidades e E.G.Os do jogo traduzidos (1ª temporada completamente revisadas)  
+✔ Textos-guia, notas do Dante e extras traduzidos  
 
 Com um enorme progresso conquistado, é com muita alegria que anunciamos: **o nosso mod de tradução para Limbus Company já está disponível!**
 
