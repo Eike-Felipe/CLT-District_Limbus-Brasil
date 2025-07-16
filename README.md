@@ -4,7 +4,7 @@
 </a>
    
 # CLT District™
-Tradução em Português Brasileiro para o Limbus Company
+Tradução (Localização) em Português Brasileiro para o Limbus Company
 
 
 [![Discord](https://img.shields.io/badge/Servidor%20Brasileiro%20de%20Limbus%20Company-641E16?style=plastic&logo=discord&logoColor=473DBF&link=https://discord.com/invite/limbus-brasil)](https://discord.com/invite/limbus-brasil) &ensp; [![Discord](https://img.shields.io/badge/CLT%20District-641E16?style=plastic&logo=discord&logoColor=473DBF&link=https://discord.gg/5BF7pnj8pE)](https://discord.gg/5BF7pnj8pE)
