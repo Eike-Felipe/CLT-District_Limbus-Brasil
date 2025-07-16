@@ -21,6 +21,8 @@ Tradução (Localização) em Português Brasileiro para o Limbus Company
    - Clique no símbolo de "+" à direita, e aguarde até o fim do processo
    - Volte para o menu principal clicando no ícone de casinha
    - Clique em "ATUALIZAR & JOGAR"
+   - Na tela de início, clique em "Idioma Personalizado", selecione "ptbr-CLT" e clique em "Confirmar"
+   - Divirta-se!
   
    OBS: Se o programa estiver em inglês, clique no ícone de engrenagem, clique em "interface language" e mude para o Português.
 
