@@ -67,7 +67,32 @@ https://www.youtube.com/@Loremaster-ln2dy
 
 https://www.youtube.com/@MilleDoGacha
 
-# Créditos
-Agradecimentos especiais a <b>Knightey<b> e a equipe da CresCorp!
+<b>Equipe CLT District</b>
 
-Agradecimentos especiais a <b>Fujiwara<b> e a equipe da Dreams Office!
+Loremaster  
+Mille  
+Turingues  
+Eike Felipe  
+Disklo  
+Maverick  
+MagoMango  
+RainhaStark  
+Lushva  
+Pedro Brasil (VITROLA)  
+MeanyPrincessNo4h  
+Soleil-de-Noir  
+Kouta  
+Ideal-Sancho  
+Lura  
+MARKfall  
+TayTots  
+Starberry Milk  
+Lu Bu  
+Mesmer  
+Graveler28  
+Lura  
+
+# Agradecimentos especiais
+<b>Knightey</b> e a equipe da CresCorp!
+
+<b>Fujiwara</b> e a equipe da Dreams Office!
