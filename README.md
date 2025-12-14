@@ -7,7 +7,7 @@
 Tradução (Localização) em Português Brasileiro para o Limbus Company
 
 
-[![Discord](https://img.shields.io/badge/CLT%20District-641E16?style=plastic&logo=discord&logoColor=473DBF&link=https://discord.gg/5BF7pnj8pE)](https://discord.gg/5BF7pnj8pE) &ensp; [![Discord](https://img.shields.io/badge/Limbus%20Company%20BR-641E16?style=plastic&logo=discord&logoColor=473DBF&link=https://discord.com/invite/limbus-brasil)](https://discord.com/invite/limbus-brasil) 
+[![Discord](https://img.shields.io/badge/CLT%20District-641E16?style=plastic&logo=discord&logoColor=473DBF&link=https://discord.gg/5BF7pnj8pE)](https://discord.gg/5BF7pnj8pE) &ensp;
 </div>
 
 
@@ -69,28 +69,39 @@ https://www.youtube.com/@MilleDoGacha
 
 <b>Equipe CLT District</b>
 
-Loremaster  
-Mille  
-Turingues  
-Eike Felipe  
-Disklo  
-Maverick  
-MagoMango  
-RainhaStark  
-Lushva  
-Pedro Brasil (VITROLA)  
-MeanyPrincessNo4h  
-Soleil-de-Noir  
-Kouta  
-Ideal-Sancho  
-Lura  
-MARKfall  
-TayTots  
-Starberry Milk  
-Lu Bu  
-Mesmer  
-Graveler28  
-Lura  
+GERENTES
+
+	- eike (@xorupinguento)
+	- lubu (@renlei.)
+	- magomango (@saltyflakes)
+	- millekoi
+	- taytots
+	- unrealisticnoah
+
+MEMBROS
+
+	- bishop (@unlikebishop)
+	- coffea (@coffeasack)
+	- DezerD   
+	- existencianal
+	- graveler28          
+	- Jojo (@_ctms)
+	- koronelneudachnik 
+	- Kyones (@elkyones)
+	- LuaN (@seis_e_onibus)
+	- Lushva   
+	- Masamoto (@laticinea)
+	- Mesmer (@kazimierz.swverr)
+	- MiyoJo
+	- Myo (@makiziww)
+	- nem (@abracadabra_poha)            
+	- Noir (@beowulfdmc)
+	- Sancho (@heep_brookstone)
+	- starberrymillk             
+	- Theo H. (@vantheozzy)
+	- Turingues (@.turingues)
+	- Vitrola com Ferrugem (@sei_kijin)
+	- Zero (@zeroman)
 
 # Agradecimentos especiais
 <b>Knightey</b> e a equipe da CresCorp!
