@@ -13,7 +13,7 @@ Tradução (Localização) em Português Brasileiro para o Limbus Company
 
 # Como usar a nossa tradução (localização)
 
-1. Instale a última versão do [Limbus Localization Manager](https://github.com/kimght/LimbusLocalizationManager/releases)
+1. Instale a última versão do [Limbus Localization Manager](https://github.com/kimght/LimbusLocalizationManager/releases/latest)
    - Se você usa Windows, o arquivo se parecerá com isto: `LimbusLocalizationManager_Setup_x.x.x.exe`
      
 2. Instale a tradução pelo Limbus Localization Manager e jogue:
