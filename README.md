@@ -48,9 +48,10 @@ E como está nosso projeto?
 
 ✔ Interface e menus traduzidos e revisados  
 ✔ Efeitos e mecânicas de combate principais traduzidos  
-✔ História até o Canto III traduzida e revisada (Prólogo até o intervalo Pesadelo na galinha)  
-✔ Todas as Identidades e E.G.Os do jogo traduzidos (1ª temporada completamente revisadas)  
+✔ História até o Canto VII traduzida e revisada (Prólogo até A 5ª Walpurgisnacht)  
+✔ Todas as Identidades e E.G.Os do jogo traduzidos  
 ✔ Textos-guia, notas do Dante e extras traduzidos  
+✔ Letras das músicas traduzidas (até o Canto VII)
 
 Com um enorme progresso conquistado, é com muita alegria que anunciamos: **o nosso mod de tradução para Limbus Company já está disponível!**
 
@@ -63,47 +64,49 @@ O pecado agora fala português.
 
 Entrem em nossos servidores no discord e acessem nossos canais no youtube
 
-https://www.youtube.com/@Loremaster-ln2dy
-
-https://www.youtube.com/@MilleDoGacha
+https://www.youtube.com/@MilleDoGacha2
 
 <b>Equipe CLT District</b>
 
 GERENTES
 
-	- eike (@xorupinguento)
 	- lubu (@renlei.)
 	- magomango (@saltyflakes)
 	- millekoi
 	- taytots
-	- unrealisticnoah
+	- no4h (@unrealisticnoah)
+
 
 MEMBROS
 
+	- Alaska (@lalaskinha)
 	- bishop (@unlikebishop)
+	- Charlie Nashira (@charlottenashira)
+	- chimericalAmbition (@starberrymillk)
 	- coffea (@coffeasack)
-	- DezerD   
+	- DezerD (@dezerd)
+	- DvD (@dvd1573)
+	- Eike Felix (@xorupinguento)
 	- existencianal
-	- graveler28          
+	- Graveler28
 	- Jojo (@_ctms)
-	- koronelneudachnik 
+	- K1ZUMI (@imkizumi)
+	- koronelneudachnik
 	- Kyones (@elkyones)
 	- LuaN (@seis_e_onibus)
-	- Lushva   
-	- Masamoto (@laticinea)
-	- Mesmer (@kazimierz.swverr)
+	- Lushva
 	- MiyoJo
 	- Myo (@makiziww)
-	- nem (@abracadabra_poha)            
+	- Naj (@nash22222)
 	- Noir (@beowulfdmc)
+	- remi (@hielm)
 	- Sancho (@heep_brookstone)
-	- starberrymillk             
-	- Theo H. (@vantheozzy)
-	- Turingues (@.turingues)
-	- Vitrola com Ferrugem (@sei_kijin)
+	- Tako (@psicogato)
+	- tuber (@tuber.webp)
+	- Wonder (@emiyawonder)
 	- Zero (@zeroman)
 
 # Agradecimentos especiais
-<b>Knightey</b> e a equipe da CresCorp!
-
-<b>Fujiwara</b> e a equipe da Dreams Office!
+- Project Moon: Por criar este universo incrível que amamos odiar e odiamos amar. Sem vocês, não teríamos o que traduzir.
+- Comunidade: A todos os Gerentes no Discord que reportaram bugs, sugeriram termos e mantiveram a motivação da equipe alta. Vocês são o combustível deste ônibus.
+- Outras Equipes de Tradução: Por todo apoio técnico e por nos inserir no meio da localização de Limbus.
